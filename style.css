@@ -83,10 +83,11 @@ nav ul li.btn:hover a {
   color: white;
   margin-bottom: 40px;
 }
-.content .main-text h1 {
+.content .main-text h1,
+h3 {
   font-size: 100px;
   line-height: 1;
-  color: white;
+  color: rgb(3, 2, 2);
   margin: 0px 0px 45px;
   font-family: "Permanent Marker", cursive;
 }
